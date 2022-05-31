@@ -1,2 +1,2 @@
 # orga
-Organizacion del Computador
+Organizacion del Computador -  Moreno - Simó
